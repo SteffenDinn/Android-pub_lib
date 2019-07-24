@@ -193,5 +193,4 @@ public class ImmersionBarsUtils {
         return actionBarHeight1;
     }
 
-
 }
